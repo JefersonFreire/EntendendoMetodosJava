@@ -4,7 +4,7 @@ public class Calculadora {
 
         double resultado = numero1 + numero2;
 
-        System.out.println("A somade de " + numero1 + " mais " + numero2 + " è "+ resultado);
+        System.out.println("A soma de " + numero1 + " mais " + numero2 + " è "+ resultado);
     }
 
     public static void subtracao(double numero1, double numero2){
