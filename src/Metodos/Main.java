@@ -2,7 +2,7 @@ package Metodos;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Exercício calculadora!");
+        System.out.println("Exercício calculadora");
         Calculadora.soma(1,4);
         Calculadora.subtracao(15,10);
         Calculadora.multiplicacao(3,2);
