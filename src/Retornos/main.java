@@ -14,5 +14,6 @@ public class main {
 
         double areaTrapezio = Quadrilateros.area(7, 8, 9);
         System.out.println("Área do trapézio:" + areaTrapezio);
+
     }
 }
